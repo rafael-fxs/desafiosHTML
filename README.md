@@ -1,5 +1,5 @@
 ## Desafios HTML
-<p>Link para <a href="https://rafael-fxs.github.io/discoverDesafiosHTML/" target="_blank">visualizar</a> em formato de site</p>
+<p>Link para <a href="https://rafael-fxs.github.io/discoverDesafiosHTML/">visualizar</a> em formato de site</p>
 
 ## 💻 Sobre
 <p>Essa é uma série de desafios básicos para praticar conhecimentos em HTML proposto na Trilha Discover da Rocketseat.</p>
