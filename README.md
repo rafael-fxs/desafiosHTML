@@ -8,9 +8,9 @@
 
 ## 🚀 Desafios
 <ol>
-  <li><a href="Desafios/Glossário/">Glossário</a></li>
-  <li><a href="Desafios/Formulário de Contato/">Formulário de contato</a></li>
-  <li><a href="Desafios/Lista de Compras/">Lista de compras</a></li>
-  <li><a href="Desafios/Quiz/">Quiz</a></li>
-  <li><a href="Desafios/Blog Post/">Blog Post</a></li>
+  <li><a href="Desafios/Glossário/index.html">Glossário</a></li>
+  <li><a href="Desafios/Formulário de Contato/index.html">Formulário de contato</a></li>
+  <li><a href="Desafios/Lista de Compras/index.html">Lista de compras</a></li>
+  <li><a href="Desafios/Quiz/index.html">Quiz</a></li>
+  <li><a href="Desafios/Blog Post/index.html">Blog Post</a></li>
 </ol>
