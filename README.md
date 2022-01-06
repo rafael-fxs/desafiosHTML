@@ -1,10 +1,10 @@
 ## Desafios HTML
-<p>Link para <a href="https://rafael-fxs.github.io/desafiosHTML/">visualizar</a> em formato de site</p>
+<p>Link para <a href="https://rafael-fxs.github.io/desafiosHTML/" target="_blank">visualizar</a> em formato de site</p>
 
 ## 💻 Sobre
 <p>Essa é uma série de desafios básicos para praticar conhecimentos em HTML proposto na Trilha Discover da Rocketseat.</p>
 
-+ <p><a href="https://efficient-sloth-d85.notion.site/Desafios-HTML-ed0f6368d34d44ffab92686b9dc93229">Link do Notion</a> com detalhes e instruções de cada desafio.</p>
++ <p><a href="https://efficient-sloth-d85.notion.site/Desafios-HTML-ed0f6368d34d44ffab92686b9dc93229" target="_blank">Link do Notion</a> com detalhes e instruções de cada desafio.</p>
 
 ## 🚀 Desafios
 <ol>
